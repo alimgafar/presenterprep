@@ -6,7 +6,7 @@ sections:
     title: Ready to Take Your Presentation Skills to the Next Level?
     content: "Azimuth is the perfect theme for developers, designers and
       entrepreneurs who need a sleek, modern SaaS site. "
-    image: images/hero.png
+    image: /images/10_thumb.jpg
     actions:
       - label: Learn More
         url: /features
